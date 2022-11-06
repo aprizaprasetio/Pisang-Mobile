@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pisangedukasimobile",
+    "name": "Pisang by Apriza Prasetio",
     "slug": "pisangedukasimobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.aprizaprasetio.pisangedu"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1dd5d487-9cc3-4b38-a69b-76b04cf9a6d4"
+      }
     }
   }
 }
